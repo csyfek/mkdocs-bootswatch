@@ -24,6 +24,7 @@ setup(
             'cyborg = mkdocs_bootswatch.cyborg',
             'darkly = mkdocs_bootswatch.darkly',
             'flatly = mkdocs_bootswatch.flatly',
+            'flos = mkdocs_bootswatch.flos',
             'journal = mkdocs_bootswatch.journal',
             'litera = mkdocs_bootswatch.litera',
             'lumen = mkdocs_bootswatch.lumen',
